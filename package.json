@@ -1,0 +1,14 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",  
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apiai": "^2.0.5",
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "request": "^2.72.0"    
+  }
+}

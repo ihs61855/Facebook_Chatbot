@@ -1,0 +1,16 @@
+npm install request  
+npm install cheerio  
+npm install phantom  
+npm install forecast --save
+
+npm install mongoose  //그 폴더에 설치
+
+ngrok http 80
+
+cd C:\MongoDB\Server\3.4\bin
+mongod.exe
+mongo.exe
+
+node app.js
+
+//크롤링 적용시 다이알로그 플로우 설정필요 action으로 작동
